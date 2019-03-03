@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.ComboBox?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane prefHeight="813.0" prefWidth="860.0" xmlns="http://javafx.com/javafx/8.0.102" xmlns:fx="http://javafx.com/fxml/1" fx:controller="at.Chris5011.projects.firstNeuronalNetwork.view.NeuralViewController">
+   <children>
+      <Label layoutX="328.0" layoutY="14.0" prefHeight="46.0" prefWidth="206.0" text="Neuronales Netz" textAlignment="CENTER">
+         <font>
+            <Font name="System Bold" size="24.0" />
+         </font>
+      </Label>
+      <Button layoutX="399.0" layoutY="761.0" mnemonicParsing="false" onAction="#calculate" text="Calculate" />
+      <AnchorPane fx:id="neuronPane" layoutX="32.0" layoutY="60.0" prefHeight="597.0" prefWidth="796.0" style="-fx-border-color: #000; -fx-background-color: #eee;" />
+      <ComboBox fx:id="comboAlgorithm" layoutX="52.0" layoutY="677.0" onAction="#changeActivationFunction" prefHeight="25.0" prefWidth="190.0" />
+      <Label layoutX="52.0" layoutY="713.0" text="Ergebniss: " />
+      <Label fx:id="lblErg" layoutX="160.0" layoutY="713.0" prefHeight="17.0" prefWidth="82.0" text="Label" />
+   </children>
+</AnchorPane>
