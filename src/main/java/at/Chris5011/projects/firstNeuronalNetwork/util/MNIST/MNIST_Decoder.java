@@ -10,16 +10,7 @@ import java.util.List;
 public class MNIST_Decoder {
 
 
-    public static void main(String[] args) {
-        List<Digit> digits;
 
-        try {
-            digits = MNIST_Decoder.loadDataSet("src/main/resources/MNIST/train-images.idx3-ubyte", "src/main/resources/MNIST/train-labels.idx1-ubyte");
-
-        } catch (IOException ex) {
-            System.out.println("Konnte den Angegebenen Pfad nicht finden: " + ex.getMessage());
-        }
-    }
 
 
     public static int toUnsignedByte(byte b) {

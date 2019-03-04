@@ -18,4 +18,8 @@ public class Connection {
     public void setWeight(double weight) {
         this.weight = weight;
     }
+
+    public void addWeight(double bigDelta) {
+        this.weight += bigDelta;
+    }
 }

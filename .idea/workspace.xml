@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/src/main/java/at/Chris5011/projects/firstNeuronalNetwork/util/NeuralNetwork.java" line="93" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="87393961-bfe6-435f-8632-1f0181720407" name="Default Changelist" comment="" />
+    <list default="true" id="87393961-bfe6-435f-8632-1f0181720407" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/at/Chris5011/projects/firstNeuronalNetwork/util/MNIST/MNIST_Learn.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/at/Chris5011/projects/firstNeuronalNetwork/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/at/Chris5011/projects/firstNeuronalNetwork/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/at/Chris5011/projects/firstNeuronalNetwork/neurons/WorkingNeuron.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/at/Chris5011/projects/firstNeuronalNetwork/neurons/WorkingNeuron.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/at/Chris5011/projects/firstNeuronalNetwork/util/Connection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/at/Chris5011/projects/firstNeuronalNetwork/util/Connection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/at/Chris5011/projects/firstNeuronalNetwork/util/MNIST/MNIST_Decoder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/at/Chris5011/projects/firstNeuronalNetwork/util/MNIST/MNIST_Decoder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/at/Chris5011/projects/firstNeuronalNetwork/util/NeuralNetwork.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/at/Chris5011/projects/firstNeuronalNetwork/util/NeuralNetwork.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,8 +26,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/at/Chris5011/projects/firstNeuronalNetwork/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="26" column="36" selection-start-line="26" selection-start-column="36" selection-end-line="26" selection-end-column="36" />
+            <state relative-caret-position="1035">
+              <caret line="72" selection-start-line="72" selection-end-line="72" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -24,14 +35,74 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/at/Chris5011/projects/firstNeuronalNetwork/view/NeuralViewController.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/at/Chris5011/projects/firstNeuronalNetwork/util/MNIST/MNIST_Decoder.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="164" column="51" selection-start-line="164" selection-start-column="51" selection-end-line="164" selection-end-column="51" />
+            <state relative-caret-position="119">
+              <caret line="12" selection-start-line="12" selection-end-line="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/at/Chris5011/projects/firstNeuronalNetwork/util/MNIST/MNIST_Learn.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="428">
+              <caret line="49" column="37" lean-forward="true" selection-start-line="49" selection-start-column="37" selection-end-line="49" selection-end-column="37" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/at/Chris5011/projects/firstNeuronalNetwork/util/NeuralNetwork.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="678">
+              <caret line="100" column="47" lean-forward="true" selection-start-line="100" selection-start-column="47" selection-end-line="100" selection-end-column="47" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#4957#4958#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/at/Chris5011/projects/firstNeuronalNetwork/neurons/WorkingNeuron.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="476">
+              <caret line="30" column="32" lean-forward="true" selection-start-line="30" selection-start-column="32" selection-end-line="30" selection-end-column="32" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#835#836#0" expanded="true" />
+                <element signature="e#876#877#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/at/Chris5011/projects/firstNeuronalNetwork/util/Connection.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="22" column="32" selection-start-line="22" selection-start-column="32" selection-end-line="22" selection-end-column="32" />
+              <folding>
+                <element signature="e#356#357#0" expanded="true" />
+                <element signature="e#410#411#0" expanded="true" />
+                <element signature="e#536#537#0" expanded="true" />
+                <element signature="e#575#576#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/at/Chris5011/projects/firstNeuronalNetwork/neurons/Neuron.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" selection-start-line="6" selection-end-line="6" />
             </state>
           </provider>
         </entry>
@@ -54,7 +125,6 @@
       <list>
         <option value="$PROJECT_DIR$/src/main/java/at/Chris5011/projects/firstNeuronalNetwork/neurons/I_Neuron.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/at/Chris5011/projects/firstNeuronalNetwork/util/Connection.java" />
         <option value="$PROJECT_DIR$/src/main/java/at/Chris5011/projects/firstNeuronalNetwork/neurons/InputNeuron.java" />
         <option value="$PROJECT_DIR$/src/main/java/at/Chris5011/projects/firstNeuronalNetwork/activationFunctions/Linear.java" />
         <option value="$PROJECT_DIR$/src/main/java/at/Chris5011/projects/firstNeuronalNetwork/activationFunctions/Identity.java" />
@@ -63,12 +133,16 @@
         <option value="$PROJECT_DIR$/src/main/java/at/Chris5011/projects/firstNeuronalNetwork/activationFunctions/ActivationTanh.java" />
         <option value="$PROJECT_DIR$/src/main/java/at/Chris5011/projects/firstNeuronalNetwork/activationFunctions/ActivationTangensHyperbolicus.java" />
         <option value="$PROJECT_DIR$/src/main/java/at/Chris5011/projects/firstNeuronalNetwork/activationFunctions/ActivationFunction.java" />
-        <option value="$PROJECT_DIR$/src/main/java/at/Chris5011/projects/firstNeuronalNetwork/neurons/WorkingNeuron.java" />
         <option value="$PROJECT_DIR$/src/main/java/at/Chris5011/projects/firstNeuronalNetwork/util/Util.java" />
         <option value="$PROJECT_DIR$/src/main/java/at/Chris5011/projects/firstNeuronalNetwork/util/NeuralNetworks.java" />
-        <option value="$PROJECT_DIR$/src/main/java/at/Chris5011/projects/firstNeuronalNetwork/util/NeuralNetwork.java" />
-        <option value="$PROJECT_DIR$/src/main/java/at/Chris5011/projects/firstNeuronalNetwork/Main.java" />
         <option value="$PROJECT_DIR$/src/main/java/at/Chris5011/projects/firstNeuronalNetwork/view/NeuralViewController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/at/Chris5011/projects/firstNeuronalNetwork/util/NeuralNetwork.java" />
+        <option value="$PROJECT_DIR$/src/main/java/at/Chris5011/projects/firstNeuronalNetwork/neurons/Neuron.java" />
+        <option value="$PROJECT_DIR$/src/main/java/at/Chris5011/projects/firstNeuronalNetwork/neurons/WorkingNeuron.java" />
+        <option value="$PROJECT_DIR$/src/main/java/at/Chris5011/projects/firstNeuronalNetwork/util/Connection.java" />
+        <option value="$PROJECT_DIR$/src/main/java/at/Chris5011/projects/firstNeuronalNetwork/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/at/Chris5011/projects/firstNeuronalNetwork/util/MNIST/MNIST_Decoder.java" />
+        <option value="$PROJECT_DIR$/src/main/java/at/Chris5011/projects/firstNeuronalNetwork/util/MNIST/MNIST_Learn.java" />
       </list>
     </option>
   </component>
@@ -80,10 +154,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="522" />
-    <option name="y" value="-14" />
-    <option name="width" value="1339" />
-    <option name="height" value="1047" />
+    <option name="x" value="292" />
+    <option name="y" value="275" />
+    <option name="width" value="1278" />
+    <option name="height" value="720" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -91,8 +165,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -160,7 +232,26 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="firstNeuronalNetwork" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
+              <item name="MNIST" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FirstNeuronalNetwork" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FirstNeuronalNetwork" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="firstNeuronalNetwork" type="462c0819:PsiDirectoryNode" />
               <item name="view" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FirstNeuronalNetwork" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FirstNeuronalNetwork" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="firstNeuronalNetwork" type="462c0819:PsiDirectoryNode" />
+              <item name="Main.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
             </path>
             <path>
               <item name="FirstNeuronalNetwork" type="b2602c69:ProjectViewProjectNode" />
@@ -175,18 +266,20 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="view" type="462c0819:PsiDirectoryNode" />
+              <item name="MNIST" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551416045446" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551676889426" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../Labs_von_Moodle_bis_Lab10/Lab10" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -209,9 +302,23 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.MNIST_Learn">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MNIST_Learn" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="at.Chris5011.projects.firstNeuronalNetwork.util.MNIST.MNIST_Learn" />
+      <module name="FirstNeuronalNetwork" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="at.Chris5011.projects.firstNeuronalNetwork.util.MNIST.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -261,6 +368,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MNIST_Learn" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -276,17 +384,19 @@
       <option name="presentableId" value="Default" />
       <updated>1551122161246</updated>
       <workItem from="1551122163659" duration="9120000" />
-      <workItem from="1551636120353" duration="1243000" />
+      <workItem from="1551636120353" duration="2290000" />
+      <workItem from="1551675948080" duration="938000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10363000" />
+    <option name="totallyTimeSpent" value="12348000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25266525" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2553305" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -295,7 +405,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32987553" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32987553" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.31431535" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -325,13 +435,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1173">
           <caret line="69" column="17" selection-start-line="69" selection-start-column="17" selection-end-line="69" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/at/Chris5011/projects/firstNeuronalNetwork/neurons/Neuron.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
         </state>
       </provider>
     </entry>
@@ -400,19 +503,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/at/Chris5011/projects/firstNeuronalNetwork/neurons/WorkingNeuron.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="394">
-          <caret line="29" column="5" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#177#178#0" expanded="true" />
-            <element signature="e#211#212#0" expanded="true" />
-            <element signature="e#876#877#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/at/Chris5011/projects/firstNeuronalNetwork/neurons/InputNeuron.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
@@ -426,41 +516,80 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/at/Chris5011/projects/firstNeuronalNetwork/util/NeuralNetwork.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/at/Chris5011/projects/firstNeuronalNetwork/view/NeuralViewController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1292">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
-          <folding>
-            <element signature="e#4269#4270#0" expanded="true" />
-            <element signature="e#4313#4314#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/at/Chris5011/projects/firstNeuronalNetwork/util/Connection.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
-          <folding>
-            <element signature="e#410#411#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/at/Chris5011/projects/firstNeuronalNetwork/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="26" column="36" selection-start-line="26" selection-start-column="36" selection-end-line="26" selection-end-column="36" />
+        <state relative-caret-position="85">
+          <caret line="145" column="33" selection-start-line="145" selection-start-column="33" selection-end-line="145" selection-end-column="33" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/at/Chris5011/projects/firstNeuronalNetwork/view/NeuralViewController.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/at/Chris5011/projects/firstNeuronalNetwork/neurons/Neuron.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="164" column="51" selection-start-line="164" selection-start-column="51" selection-end-line="164" selection-end-column="51" />
+        <state relative-caret-position="102">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/at/Chris5011/projects/firstNeuronalNetwork/util/Connection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="22" column="32" selection-start-line="22" selection-start-column="32" selection-end-line="22" selection-end-column="32" />
+          <folding>
+            <element signature="e#356#357#0" expanded="true" />
+            <element signature="e#410#411#0" expanded="true" />
+            <element signature="e#536#537#0" expanded="true" />
+            <element signature="e#575#576#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/at/Chris5011/projects/firstNeuronalNetwork/neurons/WorkingNeuron.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="30" column="32" lean-forward="true" selection-start-line="30" selection-start-column="32" selection-end-line="30" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#835#836#0" expanded="true" />
+            <element signature="e#876#877#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/at/Chris5011/projects/firstNeuronalNetwork/util/NeuralNetwork.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="678">
+          <caret line="100" column="47" lean-forward="true" selection-start-line="100" selection-start-column="47" selection-end-line="100" selection-end-column="47" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#4957#4958#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/at/Chris5011/projects/firstNeuronalNetwork/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1035">
+          <caret line="72" selection-start-line="72" selection-end-line="72" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/at/Chris5011/projects/firstNeuronalNetwork/util/MNIST/MNIST_Decoder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/at/Chris5011/projects/firstNeuronalNetwork/util/MNIST/MNIST_Learn.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="428">
+          <caret line="49" column="37" lean-forward="true" selection-start-line="49" selection-start-column="37" selection-end-line="49" selection-end-column="37" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

@@ -87,6 +87,24 @@ public class NeuralNetwork {
         }
     }
 
+
+    public void deltaLearning(double[] expected, double epsilon) {
+
+        if (expected.length != outputNeuronsList.size()) {
+            throw new IllegalArgumentException("Übergebene Anzahl an sollwerten nicht gültig, muss: " + outputNeuronsList.size() + " sein!");
+        }
+        if (!hiddenNeuronList.isEmpty()) {
+            throw new IllegalStateException("Darf keine Hidden-Neuronen haben!");
+        }
+        for (int i = 0; i < expected.length; i++) {
+            double smallDelta =  expected[i] - outputNeuronsList.get(i).getValue();
+            outputNeuronsList.get(i).deltaLearning(epsilon, smallDelta);
+
+
+        }
+
+    }
+
     public void changeAllActivationFunctions(ActivationFunction activationFunction) {
         for (WorkingNeuron w : outputNeuronsList) {
             w.changeActivationFunction(activationFunction);

@@ -70,22 +70,23 @@ class Main_Logical {
         System.out.println("identityActivation: ");
         nn.changeAllActivationFunctions(ActivationFunction.identityActivation);
 //        nn.changeHiddenNeuronActivationFunction(ActivationFunction.sigmoidActivation);
-        System.out.println(outputNeuron.getValue() + "\n");
 
-        System.out.println("booleanActivation: ");
-        nn.changeAllActivationFunctions(ActivationFunction.booleanActivation);
-        System.out.println(outputNeuron.getValue() + "\n");
-
-        System.out.println("sigmoidActivation: ");
-        nn.changeAllActivationFunctions(ActivationFunction.sigmoidActivation);
-        System.out.println(outputNeuron.getValue() + "\n");
-
-        System.out.println("activationTangensHyperbolicus: ");
-        nn.changeAllActivationFunctions(ActivationFunction.activationTangensHyperbolicus);
-        System.out.println(outputNeuron.getValue() + "\n");
-
-        System.out.println("activationReLu: ");
-        nn.changeAllActivationFunctions(ActivationFunction.activationReLu);
-        System.out.println(outputNeuron.getValue());
+//        System.out.println(outputNeuron.getValue() + "\n");
+//
+//        System.out.println("booleanActivation: ");
+//        nn.changeAllActivationFunctions(ActivationFunction.booleanActivation);
+//        System.out.println(outputNeuron.getValue() + "\n");
+//
+//        System.out.println("sigmoidActivation: ");
+//        nn.changeAllActivationFunctions(ActivationFunction.sigmoidActivation);
+//        System.out.println(outputNeuron.getValue() + "\n");
+//
+//        System.out.println("activationTangensHyperbolicus: ");
+//        nn.changeAllActivationFunctions(ActivationFunction.activationTangensHyperbolicus);
+//        System.out.println(outputNeuron.getValue() + "\n");
+//
+//        System.out.println("activationReLu: ");
+//        nn.changeAllActivationFunctions(ActivationFunction.activationReLu);
+//        System.out.println(outputNeuron.getValue());
     }
 }

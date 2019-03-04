@@ -25,6 +25,13 @@ public class WorkingNeuron implements Neuron {
         return activationFunction.activation(sum);
     }
 
+    public void deltaLearning(double epsilon, double smallDelta) {
+        for (int i = 0; i < connections.size(); i++) {
+            double bigDelta = epsilon * smallDelta * connections.get(i).getValue();
+            connections.get(i).addWeight(bigDelta);
+        }
+    }
+
     public void makeConnection(Connection con) {
         this.connections.add(con);
     }
