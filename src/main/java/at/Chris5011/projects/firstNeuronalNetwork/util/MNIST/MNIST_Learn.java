@@ -49,7 +49,7 @@ public class MNIST_Learn {
 
             nn.createFullMesh(weights);
 
-            double epsilon = 0.009;
+            double epsilon = 0.01;
             while (true) {
                 test();
                 for (int i = 0; i < digits.size(); i++) {

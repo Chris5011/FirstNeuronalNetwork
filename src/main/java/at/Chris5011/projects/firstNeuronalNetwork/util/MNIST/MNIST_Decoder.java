@@ -10,9 +10,6 @@ import java.util.List;
 public class MNIST_Decoder {
 
 
-
-
-
     public static int toUnsignedByte(byte b) {
         return b & 0xFF;
     }
