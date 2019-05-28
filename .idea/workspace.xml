@@ -5,23 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="87393961-bfe6-435f-8632-1f0181720407" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/at/Chris5011/projects/firstNeuronalNetwork/MNIST_Encoder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/MNIST/self/8.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/at/Chris5011/projects/firstNeuronalNetwork/util/MNIST/MNIST_Decoder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/at/Chris5011/projects/firstNeuronalNetwork/util/MNIST/MNIST_Decoder.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/at/Chris5011/projects/firstNeuronalNetwork/util/MNIST/MNIST_Learn.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/at/Chris5011/projects/firstNeuronalNetwork/util/MNIST/MNIST_Learn.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/at/Chris5011/projects/firstNeuronalNetwork/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/at/Chris5011/projects/firstNeuronalNetwork/activationFunctions/ActivationFunction.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/at/Chris5011/projects/firstNeuronalNetwork/activationFunctions/BooleanActivation.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/at/Chris5011/projects/firstNeuronalNetwork/activationFunctions/IdentityActivation.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/at/Chris5011/projects/firstNeuronalNetwork/activationFunctions/ReLuActivationFunction.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/at/Chris5011/projects/firstNeuronalNetwork/activationFunctions/SigmoidActivation.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/at/Chris5011/projects/firstNeuronalNetwork/activationFunctions/TangensHyperbolicusActivation.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/at/Chris5011/projects/firstNeuronalNetwork/neurons/InputNeuron.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/at/Chris5011/projects/firstNeuronalNetwork/neurons/Neuron.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/at/Chris5011/projects/firstNeuronalNetwork/util/NeuralNetworks.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/FirstNeuronalNetwork.kotlin_module" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -36,7 +22,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/at/Chris5011/projects/firstNeuronalNetwork/neurons/WorkingNeuron.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
+            <state relative-caret-position="357">
               <caret line="27" column="29" selection-start-line="27" selection-start-column="16" selection-end-line="27" selection-end-column="29" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -45,11 +31,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/at/Chris5011/projects/firstNeuronalNetwork/util/MNIST/MNIST_Learn.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="51" column="33" selection-start-line="51" selection-start-column="33" selection-end-line="51" selection-end-column="33" />
+            <state relative-caret-position="248">
+              <caret line="109" column="85" selection-start-line="109" selection-start-column="85" selection-end-line="109" selection-end-column="85" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -60,8 +46,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/at/Chris5011/projects/firstNeuronalNetwork/MNIST_Encoder.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" column="10" lean-forward="true" selection-start-line="18" selection-start-column="10" selection-end-line="18" selection-end-column="10" />
+            <state relative-caret-position="255">
+              <caret line="18" column="10" selection-start-line="18" selection-start-column="10" selection-end-line="18" selection-end-column="10" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -81,7 +67,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/at/Chris5011/projects/firstNeuronalNetwork/view/NeuralViewController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3386">
+            <state relative-caret-position="3655">
               <caret line="233" column="17" selection-start-line="233" selection-start-column="17" selection-end-line="233" selection-end-column="17" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -90,11 +76,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/at/Chris5011/projects/firstNeuronalNetwork/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-85">
-              <caret line="25" column="42" lean-forward="true" selection-start-line="25" selection-start-column="42" selection-end-line="25" selection-end-column="42" />
+            <state relative-caret-position="17">
+              <caret line="25" column="42" selection-start-line="25" selection-start-column="42" selection-end-line="25" selection-end-column="42" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -160,10 +146,10 @@
         <option value="$PROJECT_DIR$/src/main/java/at/Chris5011/projects/firstNeuronalNetwork/util/Connection.java" />
         <option value="$PROJECT_DIR$/src/main/java/at/Chris5011/projects/firstNeuronalNetwork/Main.java" />
         <option value="$PROJECT_DIR$/src/main/java/at/Chris5011/projects/firstNeuronalNetwork/util/MNIST/MNIST_Decoder.java" />
-        <option value="$PROJECT_DIR$/src/main/java/at/Chris5011/projects/firstNeuronalNetwork/util/MNIST/MNIST_Learn.java" />
         <option value="$PROJECT_DIR$/src/main/java/at/Chris5011/projects/firstNeuronalNetwork/util/MNIST/MNIST_Encoder.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/at/Chris5011/projects/firstNeuronalNetwork/MNIST_Encoder.java" />
+        <option value="$PROJECT_DIR$/src/main/java/at/Chris5011/projects/firstNeuronalNetwork/util/MNIST/MNIST_Learn.java" />
       </list>
     </option>
   </component>
@@ -186,6 +172,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -293,14 +280,13 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551786416105" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Labor/Labor_18-19_Project11" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1559032156690" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -326,7 +312,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.MNIST_Learn">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -406,9 +392,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MNIST_Learn" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.MNIST_Encoder" />
-        <item itemvalue="Application.MNIST_Learn" />
       </list>
     </recent_temporary>
   </component>
@@ -425,18 +411,27 @@
       <workItem from="1551122163659" duration="9120000" />
       <workItem from="1551636120353" duration="2290000" />
       <workItem from="1551675948080" duration="938000" />
-      <workItem from="1551699678160" duration="3673000" />
+      <workItem from="1551699678160" duration="4128000" />
+      <workItem from="1559031472838" duration="962000" />
     </task>
+    <task id="LOCAL-00001" summary="Tried to add a MNIST Encoder but failed successfully...">
+      <created>1551848366682</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1551848366682</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17061000" />
+    <option name="totallyTimeSpent" value="18478000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17643923" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17803837" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -500,6 +495,10 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Tried to add a MNIST Encoder but failed successfully..." />
+    <option name="LAST_COMMIT_MESSAGE" value="Tried to add a MNIST Encoder but failed successfully..." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -605,10 +604,40 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/MNIST/self/8.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/at/Chris5011/projects/firstNeuronalNetwork/neurons/WorkingNeuron.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
+        <state relative-caret-position="357">
           <caret line="27" column="29" selection-start-line="27" selection-start-column="16" selection-end-line="27" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/at/Chris5011/projects/firstNeuronalNetwork/MNIST_Encoder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="18" column="10" selection-start-line="18" selection-start-column="10" selection-end-line="18" selection-end-column="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/at/Chris5011/projects/firstNeuronalNetwork/view/NeuralViewController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3655">
+          <caret line="233" column="17" selection-start-line="233" selection-start-column="17" selection-end-line="233" selection-end-column="17" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -635,50 +664,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/at/Chris5011/projects/firstNeuronalNetwork/util/MNIST/MNIST_Learn.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="51" column="33" selection-start-line="51" selection-start-column="33" selection-end-line="51" selection-end-column="33" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/at/Chris5011/projects/firstNeuronalNetwork/view/NeuralViewController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3386">
-          <caret line="233" column="17" selection-start-line="233" selection-start-column="17" selection-end-line="233" selection-end-column="17" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/MNIST/self/8.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" selection-start-line="23" selection-end-line="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/at/Chris5011/projects/firstNeuronalNetwork/MNIST_Encoder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="10" lean-forward="true" selection-start-line="18" selection-start-column="10" selection-end-line="18" selection-end-column="10" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/at/Chris5011/projects/firstNeuronalNetwork/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-85">
-          <caret line="25" column="42" lean-forward="true" selection-start-line="25" selection-start-column="42" selection-end-line="25" selection-end-column="42" />
+        <state relative-caret-position="17">
+          <caret line="25" column="42" selection-start-line="25" selection-start-column="42" selection-end-line="25" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/at/Chris5011/projects/firstNeuronalNetwork/util/MNIST/MNIST_Learn.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="248">
+          <caret line="109" column="85" selection-start-line="109" selection-start-column="85" selection-end-line="109" selection-end-column="85" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

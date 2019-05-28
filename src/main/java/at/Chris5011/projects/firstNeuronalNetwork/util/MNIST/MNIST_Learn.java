@@ -18,6 +18,8 @@ public class MNIST_Learn {
 
     private static Random rd = new Random();
 
+     static int durchgang = 1;
+
     public static void main(String[] args) {
 
         try {
@@ -51,6 +53,7 @@ public class MNIST_Learn {
 
             double epsilon = 0.01;
             while (true) {
+
                 test();
                 for (int i = 0; i < digits.size(); i++) {
                     for (int j = 0; j < arraySize; j++) {
@@ -104,7 +107,8 @@ public class MNIST_Learn {
         }
 
         double percentage = (double) correct / (double) (correct + incorrect);
-        System.out.println(percentage);
+        System.out.println("Durchgang - " + durchgang + ": " + percentage *100 + " %");
+        durchgang++;
 
     }
 
